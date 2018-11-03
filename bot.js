@@ -40,4 +40,4 @@ if (message.content.startsWith(adminprefix + 'sa')) {
 });
 
 
-client.login("NTA4MTk4MzY2OTQyMDY4NzM2.Dr7wfA.KDp7r_FAO5Ia4nCElqvRJEtA67M")
+client.login('process.env.BOT_TOKEN');
